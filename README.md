@@ -20,12 +20,10 @@ The balanced accuracy score was .64, while the precision and recall scores were 
 The balanced accuracy score was .54, while the precision and recall scores were .99 and .57 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(5).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
 
 ### * BalancedRandomForestClassifier
-The balanced accuracy score was .54, while the precision and recall scores were .99 and .57 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(5).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
+The balanced accuracy score was .65, while the precision and recall scores were .99 and .58 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(6).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
 
 ### * EasyEnsembleClassifier
-The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+The balanced accuracy score was .65, while the precision and recall scores were .99 and .58 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(6).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
