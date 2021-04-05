@@ -14,10 +14,10 @@ The balanced accuracy score was .65, while the precision and recall scores were 
 The balanced accuracy score was .66, while the precision and recall scores were .99 and .69 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(3).png). Since all of these scores are above .5, we know that this is a fairly accurate model and more accurate than RandomOverSample.
 
 ### * ClusterCentroid
-The balanced accuracy score was .66, while the precision and recall scores were .99 and .69 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(3).png). Since all of these scores are above .5, we know that this is a fairly accurate model and more accurate than RandomOverSample.
+The balanced accuracy score was .54, while the precision and recall scores were .99 and .40 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(4).png). While the accuracy is barely above .5, the recall score is below .5, which makes this a less than ideal model.
 
 ### * SMOTEEN
-The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
+The balanced accuracy score was .54, while the precision and recall scores were .99 and .40 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(4).png). While the accuracy is barely above .5, the recall score is below .5, which makes this a less than ideal model.
 
 ### * BalancedRandomForestClassifier
 The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
