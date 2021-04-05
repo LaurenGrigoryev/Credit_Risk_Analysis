@@ -11,10 +11,10 @@ Below is a breakdown of scores based on accuracy (a ratio of correctly predicted
 The balanced accuracy score was .65, while the precision and recall scores were .99 and .58 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(2).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
 
 ### * SMOTE
-The balanced accuracy score was .65, while the precision and recall scores were .99 and .58 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(2).png). Since all of these scores are above .5, we know that this is a fairly accurate model.
+The balanced accuracy score was .66, while the precision and recall scores were .99 and .69 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(3).png). Since all of these scores are above .5, we know that this is a fairly accurate model and more accurate than RandomOverSample.
 
 ### * ClusterCentroid
-The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
+The balanced accuracy score was .66, while the precision and recall scores were .99 and .69 respectively, [as seen here](https://github.com/LaurenSonis/Credit_Risk_Analysis/blob/main/2021-04-04%20(3).png). Since all of these scores are above .5, we know that this is a fairly accurate model and more accurate than RandomOverSample.
 
 ### * SMOTEEN
 The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
