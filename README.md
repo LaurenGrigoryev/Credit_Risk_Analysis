@@ -7,7 +7,7 @@ The purpose of this analysis is to predict credit risk using different resamplin
 ## Results: 
 
 ### * RandomOverSample
-The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
+The balanced accuracy score was .65, while the precision and recall scores were .99 and .58 respectively, [as seen here]. This means ---.
 
 ### * SMOTE
 The balanced accuracy score was ---, while the precision and recall scores were ----. This means ---.
